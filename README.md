@@ -7,7 +7,7 @@ CineFetch is an asynchronous Python tool to fetch movie data from TMDb.
 1. Clone the repository:
 ```bash
 git clone https://github.com/n0sync/Cine-Fetch.git
-cd Cine-Fetch
+cd CineFetch
 ```
 
 2. Create a virtual environment:
